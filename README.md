@@ -1,4 +1,4 @@
 # Usage
 
-Please see the demo.ipynb notebook for the example codes of Suna.
+Please see the dataprofile/demo.ipynb notebook for the example usage of Suna.
 
